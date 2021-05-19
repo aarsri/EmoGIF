@@ -5,7 +5,7 @@ Aarohi Srivastava
 ## Getting Started
 
 ### Requirements and Dependencies
-* MUST HAVE OPENCV 4.5.0 (4.5.2 does not work)
+* MUST HAVE OPENCV 4.5.0
 * Python 3 (for Python 3.9, use opencv=4.5.0=py39_2)
 * conda install -c conda-forge dlib
 * conda install -c conda-forge scipy
