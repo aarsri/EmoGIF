@@ -1,5 +1,6 @@
 # EmoGIF
 
+Aarohi Srivastava
 
 ## Getting Started
 
