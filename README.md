@@ -16,7 +16,7 @@ Aarohi Srivastava
 * pip install scikit-image
 * conda install -c kitware-danesfield-cf rtree 
 
-You will also need the file `shape_predictor_68_face_landmarks.dat` - please put this in the EmoGIF-master directory.
+You will also need the file `shape_predictor_68_face_landmarks.dat`. This can be found at https://github.com/davisking/dlib-models. Please put this in the EmoGIF-master directory.
 
 In case something isn't working right, please see the requirements.txt file exported from my personal environment to see the versions I had while writing this code.
 
