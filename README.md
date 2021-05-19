@@ -16,6 +16,8 @@ Aarohi Srivastava
 * pip install scikit-image
 * conda install -c kitware-danesfield-cf rtree 
 
+You will also need the file `shape_predictor_68_face_landmarks.dat` - please put this in the EmoGIF-master directory.
+
 In case something isn't working right, please see the requirements.txt file exported from my personal environment to see the versions I had while writing this code.
 
 ### Run Without GUI
@@ -29,6 +31,8 @@ For example:
 emotion must be one of:  excited, happy, whimsical, love, peaceful, nostalgic, gloomy, confused
 
 output filename must be of type mp4
+
+Your output video can be found in the video_generated folder.
   
 ### Run With GUI
 
